@@ -7,9 +7,8 @@ Desain Web Responsif adalah tentang menggunakan HTML dan CSS untuk mengubah ukur
 Didalam project ini fokus membuat web desain menggunakan tools mobirise sebagai builder websitenya. Sehingg akan lebih memudahkan didalam mendesain hingga menconvert ke HTML dan CSS.
 
 Project ini bisa diakses melalui:
-
-Demo: https://laniasepsutisna.github.io/responsive-web/
-Download: https://github.com/laniasepsutisna/responsive-web.git
+<br>Demo: https://laniasepsutisna.github.io/responsive-web/
+<br>Download: https://github.com/laniasepsutisna/responsive-web.git
 
 Didalam project tutorial web desain ini saya membuat web dari nol hingga menjadi web yang bisa diexport kedalam html & css. Sehingga akan memudahkan dalam proses pembuatan web desainnya.
 
