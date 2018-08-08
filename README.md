@@ -1,7 +1,6 @@
-# responsive-web
-Responsive Web Design Part 1  - Tutorial Web Design Indonesia
+# Responsive Web Design  - Tutorial Web Design Indonesia
 
-Di video part 1 kali ini kita akan memulai membuat responsive web  desain web. 
+Di video kali ini kita akan memulai membuat responsive web  desain web. 
 Desain Web Responsif adalah tentang menggunakan HTML dan CSS untuk mengubah ukuran, menyembunyikan, mengecilkan, atau memperbesar secara otomatis, sebuah situs web, agar terlihat bagus di semua perangkat (desktop, tablet, dan ponsel).
 
 Didalam project ini fokus membuat web desain menggunakan tools mobirise sebagai builder websitenya. Sehingg akan lebih memudahkan didalam mendesain hingga menconvert ke HTML dan CSS.
