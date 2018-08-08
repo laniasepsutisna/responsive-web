@@ -12,7 +12,6 @@ Project ini bisa diakses melalui:
 Didalam project tutorial web desain ini saya membuat web dari nol hingga menjadi web yang bisa diexport kedalam html & css. Sehingga akan memudahkan dalam proses pembuatan web desainnya.
 
 Yuk subscribe & like video-video berikutnya. Terimakasih
-
 <br>Instagram: https://www.instagram.com/ekuiva
 <br>Facebook: https://www.facebook.com/ekuiva
 <br>Website: https://www.ekuiva.com/
