@@ -13,6 +13,6 @@ Didalam project tutorial web desain ini saya membuat web dari nol hingga menjadi
 
 Yuk subscribe & like video-video berikutnya. Terimakasih
 
-Instagram: https://www.instagram.com/ekuiva
-Facebook: https://www.facebook.com/ekuiva
-Website: https://www.ekuiva.com/
+<br>Instagram: https://www.instagram.com/ekuiva
+<br>Facebook: https://www.facebook.com/ekuiva
+<br>Website: https://www.ekuiva.com/
